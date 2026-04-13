@@ -1,0 +1,7 @@
+{
+  "name": "Smart Campus Companion",
+  "description": "A feature-rich campus companion app demonstrating mobile app concepts adapted for the web.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
